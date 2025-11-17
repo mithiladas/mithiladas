@@ -61,6 +61,15 @@
 
 ---
 
+## 📄 Certificates
+- [Summer School Certificate](https://github.com/mithiladas/mithiladas/blob/main/31%20-%20setificates.pdf)
+- [Inhouse Certificate](https://github.com/mithiladas/mithiladas/blob/main/Inhouse%20certificate.pdf)
+- [Project Expo Certificate](https://github.com/mithiladas/mithiladas/blob/main/Project%20Expo.pdf)
+- [Trust Wave IJSREM certificate](https://github.com/mithiladas/mithiladas/blob/main/Trust%20Wave%20IJSREM%20certificate.pdf)
+  
+---
+
+
 ## 🌐 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithila-das-esha-273429231/)
