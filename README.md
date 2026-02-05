@@ -11,7 +11,7 @@
 
 ---
 
-### 🔭 I’m currently working at **Shivputra IT Solutions**  
+### 🔭 I’m currently working at **City Bank PLC** as Enterprise Architecture, IT Intern  
 ### 🌱 Currently learning **Machine Learning, Deep Learning & Data Visualization**  
 ### 🧠 Passionate about **AI Research, ML Algorithms, and Real-world AI Solutions**  
 ### 📌 All of my projects are available here:  
